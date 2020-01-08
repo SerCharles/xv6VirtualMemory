@@ -4,7 +4,7 @@
 
 ## 1.配置和运行方法
 
-本大作业基于xv6的一个开源框架https://github.com/mit-pdos/xv6-public实现，配置方法和xv6一样。
+本大作业基于xv6的一个开源框架https://github.com/mit-pdos/xv6-public 实现，配置方法和xv6一样。
 
 环境：`ubuntu16.04`
 
